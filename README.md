@@ -39,9 +39,10 @@ My name is ██████ ████████ ████ ████
 ![https://github.com/Gyesss/](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![https://www.instagram.com/shootaseed/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.linkedin.com/in/gyess/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://reddit.com/u/shootaseed](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![https://www.threads.com/@shootaseed](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![https://x.com/shootaseed](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
-<!-- ![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) -->
+## Look at My Pet
 
 <img src="https://raw.githubusercontent.com/Gyesss/Gyesss/output/snake.svg" alt="Snake animation" />
