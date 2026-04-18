@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello,%20Peolple!%20%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=264c26"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello,%20People!%20%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=264c26"  />
 </div>
 
 ###
@@ -9,10 +9,6 @@
 ###
 
 <p align="center">My name is ██████ ████████ ████ █████. I'm an everything-I-like enthusiast and a nerdo. 🤓 Currently, I'm a full-stack web developer, and a wannabe full-stack mobile and IoT engineer. I love learning new things and looking for global networking opportunities.</p>
-
-###
-
-<h2 align="left">My Skills</h2>
 
 ###
 
@@ -71,13 +67,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gyesss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Gyesss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gyesss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyesss&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<h2 align="left">My Commits</h2>
 
 ###
 
