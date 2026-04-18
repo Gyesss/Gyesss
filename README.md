@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="left">My Stats</h2>
+<h4 align="left">My Stats</h4>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h2 align="left">Contact Me</h2>
+<h4 align="left">Contact Me</h4>
 
 ###
 
